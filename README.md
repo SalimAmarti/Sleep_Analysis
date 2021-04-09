@@ -25,7 +25,7 @@ Click [here](https://github.com/SalimAmarti/Sleep_Analysis/blob/master/Sleep%20a
 Executive Summary
 -------
 
-- I sleep more on weekends than during work days (7:31h vs. 6h42 on average)
+- I sleep more on weekends than during work days (7h31 vs. 6h42 on average)
 - My sleep time is quite anarchic, with a standard deviation of 1h10
 
   <img src="minutes_asleep_graph.png" width="60%">
