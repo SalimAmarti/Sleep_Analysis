@@ -33,7 +33,7 @@ Executive Summary
 - Small correlation between the number of steps during a day and the amount of REM/deep sleep I get
 - Small correlation between coding late at night and rapidity to fall asleep: the later I code, the quicker I fall asleep at night
 - Sleeping early has a positive impact on REM sleep and also increases my total sleep
-- It looks like the most efficient sleep duration for me would be between 9h and 10h (to get enough deep and REM sleep)
+- It looks like the most efficient sleep duration for me would be between 8h and 10h (to get enough deep and REM sleep)
 - I have an average sleep efficiency of 89% which can be considered as good-quality sleep
 
 Approach
