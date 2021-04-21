@@ -58,4 +58,6 @@ Next steps / Improvements
 Infographics
 -------
 
-WIP
+<img src="sleep_infographics_0001.jpg" width="30%"> <img src="sleep_infographics_0002.jpg" width="30%"> <img src="sleep_infographics_0003.jpg" width="30%">
+<img src="sleep_infographics_0004.jpg" width="30%"> <img src="sleep_infographics_0005.jpg" width="30%"> <img src="sleep_infographics_0006.jpg" width="30%">
+<img src="sleep_infographics_0007.jpg" width="30%"> <img src="sleep_infographics_0008.jpg" width="30%"> <img src="sleep_infographics_000.jpg" width="30%">
